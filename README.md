@@ -5,3 +5,4 @@ Node JS dependencies used in this project:
 - Body-parser 
 - EJS 
 #### API used: open weather map API 
+The API key is exported from a module. 
