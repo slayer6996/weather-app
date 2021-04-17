@@ -4,4 +4,4 @@ Node JS dependencies used in this project:
 - Express JS
 - Body-parser 
 - EJS 
-API used: open weather map API 
+#### API used: open weather map API 
