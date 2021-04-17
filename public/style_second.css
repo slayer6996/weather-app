@@ -1,0 +1,25 @@
+body{
+    background-image: url("/public/pexels-pixabay-290595.jpg");
+    font-family: 'News Cycle', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+.top{
+    top: 0;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    text-align: left;
+    padding: 0.2%;
+    margin-bottom: 1%;
+}
+
+.main{
+    background-color: rgba(129, 159, 212, 0.8);
+    font-size: larger;
+    line-height: 1;
+    padding: 5%;
+    width: fit-content;
+    margin: auto;
+}
